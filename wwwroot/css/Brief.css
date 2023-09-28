@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-family: 'Times New Roman', sans-serif;
+}
+
+h2 {
+    font-family: 'Georgia', sans-serif;
+}
+
+/* Brand colors */
+.header {
+    background-color: #007BFF;
+    color: #bdd8f4;
+}
